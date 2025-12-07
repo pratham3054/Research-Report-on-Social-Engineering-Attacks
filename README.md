@@ -1,7 +1,7 @@
  Social Engineering Attacks — Research Report
 
 Author: Pratham Lad
-Date: 2025-12-01
+Date: 2025-12-07
 Objective: Provide a detailed overview of social engineering attacks (phishing, pretexting, baiting, etc.), illustrate real-world case studies, explain impacts, and recommend concrete prevention and response measures.
 
 Executive Summary:
